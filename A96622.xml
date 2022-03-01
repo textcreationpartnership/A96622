@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cor concussum &amp; contritum: or, A present for Jehova; shewing the [brace] nature, excellency, acts, [brace] of a broken heart; [brace] and also the marks to know, and means to procure a broken and contrite heart. / by George Willington ...</title>
+            <author>Willington, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96622</idno>
+            <idno type="STC">Wing W2801</idno>
+            <idno type="STC">ESTC R186605</idno>
+            <idno type="EEBO-CITATION">45578518</idno>
+            <idno type="OCLC">ocm 45578518</idno>
+            <idno type="VID">172429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2629:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cor concussum &amp; contritum: or, A present for Jehova; shewing the [brace] nature, excellency, acts, [brace] of a broken heart; [brace] and also the marks to know, and means to procure a broken and contrite heart. / by George Willington ...</title>
+                  <author>Willington, George.</author>
+               </titleStmt>
+               <extent>[6], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Milbourn for Thomas Wall bookseller, by the Tolzey in Bristoll,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172429:1" rendition="simple:additions"/>
+            <p>
+               <hi>Cor concuſſum &amp; Contritum:</hi> OR, A PRESENT FOR JEHOVA; Shewing The
+<list>
+                  <item>Nature,</item>
+                  <item>Excellency,</item>
+                  <item>Acts,</item>
+               </list> of a broken Heart; And alſo the Marks to know, and Means to procure a Bro<g ref="char:EOLhyphen"/>ken and Contrite Heart. By <hi>George Willington,</hi> Preacher of God's Word, Formerly at <hi>Briſtoll,</hi> now of St. <hi>Georges</hi> in the County of <hi>Summerſet.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 34.18.</hi>
+               </bibl>
+               <p>The Lord is nigh unto all them that are of a Broken Heart: And ſaveth ſuch as are of a Contrite Spirit.</p>
+            </q>
+            <q>
+               <hi>The Spirit of God delights to dwell in the Heart of the Hum<g ref="char:EOLhyphen"/>ble Man.</hi>
+               <bibl> Eraſm.</bibl>
+            </q>
+            <q>Humilitas animi Sublimitas Chriſtiani.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Milbourn</hi> for <hi>Thomas Wall</hi> Bookſeller, by the <hi>Tolzey</hi> in <hi>Briſtoll,</hi> 1670.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:172429:2"/>
+            <pb facs="tcp:172429:2"/>
+            <head>To my Endeared Kinſman <hi>WALDI<g ref="char:V">Ʋ</g>E WILLINGTON,</hi> of <hi>Hurly-Hall</hi> at <hi>Kingsbury,</hi> in the County of <hi>Warwick</hi> Eſq;</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">D</seg>Edications are in Our Times ſo frequent, that it's now accounted ei<g ref="char:EOLhyphen"/>ther Preſumption, or Singurity to appear in Print without it: Your Name is here prefixed, not only that Cuſtom neceſſitates me thereto, but becauſe an Op<g ref="char:EOLhyphen"/>portunity is given me to tell the Preſent, and Future Ages, how much I Love and Ho<g ref="char:EOLhyphen"/>nour your <hi>Piety</hi> and <hi>Prudence;</hi> And how
+<pb facs="tcp:172429:3"/>much I am, my ſelf your Debtor for the Conſtancy of your Favour, and the many reſpectful Acknowledgements I have re<g ref="char:EOLhyphen"/>ceived from you, in an Age, when Love waxeth cold, even to neer Relations, who are extreamly undervalued, or held Contemp<g ref="char:EOLhyphen"/>tible, if Inferior to them.</p>
+            <p>The deſigne of this preſent Work is to ſignifie my Love and Gratitude by the beſt return which I can make; Which is by an Addreſs of the enſuing <hi>Diſcourſe</hi> to your Conſideration. Had you all the Accom<g ref="char:EOLhyphen"/>pliſhments this Life is capable of, yet whilſt in the World, you cannot be past the need of helps, whatever they may be. This I com<g ref="char:EOLhyphen"/>mit to your judgment, promiſing it a Cover<g ref="char:EOLhyphen"/>ing large enough for the Deficiency of the <hi>Author;</hi> And my ſelf a good Acceptance from him, who was pleaſed to encourage it in the <hi>Pulpit,</hi> with a Chriſtian Reſpect and Attention. <hi>Sir,</hi> This <hi>Sermon</hi> is your s by many Engagements, and my Prayers, at the <hi>Throne</hi> of <hi>Grace,</hi> ceaſe not, that theſe <hi>Di<g ref="char:EOLhyphen"/>rections</hi> may be Yours in the practical and
+<pb facs="tcp:172429:3"/>real Enjoyments of them; That the <hi>Nature, Marks,</hi> and <hi>Acts, of a Broken and Con<g ref="char:EOLhyphen"/>trite Heart,</hi> may be exemplified in the Con<g ref="char:EOLhyphen"/>verſations of you and yours; And that the many publique Exhibitions of <hi>Grace</hi> and <hi>Vertue</hi> wherewith you have been eminently Honoured, may by the Finger of Gods Spirit be Engraven on the fleſhly Tables of your Hearts: That the Lord have made you in ſome meaſure happy herein, I am extreamly confirmed, from the Obſervation of your Zeal for God, his Church, and the Miniſters of his Word; and your Humble, Temperate, and Friendly Deportment towards all: to which I might add, The <hi>Bleſſings</hi> enjoyed by your Religious &amp; Beloved <hi>Conſort,</hi> in the Comforts of a Well-Govern'd Family. And now deareſt <hi>Sir,</hi> Becauſe Ideſpair of oppor<g ref="char:EOLhyphen"/>tunity ſuitable to mine own Wiſhes, and your Merit, I have made hold to cloſe with this ſlender Advantage, of teſtifying to the World my deep ſenſe I have of your perſonal Worth, which with your other Obligations, hath me<g ref="char:EOLhyphen"/>rited abundantly more from me to your
+<pb facs="tcp:172429:4"/>praiſe, than either your Wiſdom or Modeſty will acknowledge; or for the nearneſs of my Relation to you, may be held convenient for me to enlarge. That which was Preach'd with you formerly, and now publiſhed for the uſe of all, may be eſpecially uſeful to you and yours: And that the Father of Mercies will returne all your Kindneſs with a Rich recom<g ref="char:EOLhyphen"/>pence of Reward both of <hi>Grace</hi> here, and <hi>Glory</hi> hereafter, in the <hi>World</hi> to come, is the unfained deſire of,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt Affectionate Kinſman, and Servant in the Goſpel, Geo. Willington.</signed>
+               <dateline>From may Study, <date>the <hi>12th,</hi> of <hi>Sept. 1670.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:172429:4"/>
+            <head>A PRESENT FOR JEHOVAH.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 51.17.</hi>
+                  </bibl>
+                  <p>The Sacrifices of God are a broken Spirit; a Broken and Contrite Heart, O God, thou wilt not diſpiſe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Uch is the neceſſity of true and un<g ref="char:EOLhyphen"/>feigned Repentance,
+<note place="margin">Introduction</note> that with<g ref="char:EOLhyphen"/>out it even the moſt Righteous man upon the face of the Earth, cannot be Saved in the Day of the Lord. <hi>John</hi> the Baptiſt began his preaching with Repentance; Saying, <hi>Repent yee, for the Kingdom of Heaven is at hand.</hi> Mat. 3.2. Our Saviour Chriſt followed on, <hi>Mat.</hi> 4.17. from
+<pb n="2" facs="tcp:172429:5"/>that time Jeſus began to preach and to ſay, <hi>Re<g ref="char:EOLhyphen"/>pent, For the Kingdom of Heaven is at hand.</hi> The Apoſtles followed his Example, <hi>Acts</hi> 2.38. To thoſe who were pricked in their hearts is Repen<g ref="char:EOLhyphen"/>tance preached; <hi>Repent, and be baptized every one of you, for the Remiſſion of ſins:</hi> And ye ſhall receive the Gift of the Holy Ghoſt. But <hi>Luke</hi> 13.5. our Saviour tell thoſe of <hi>Galilee, Except ye Repent, ye ſhall all likewiſe periſh.</hi>
+            </p>
+            <p>Obj. <hi>But theſe were notable Sinners.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I, but the Church of <hi>Epheſus, Revel.</hi> 2.5. which had many good things in her, is com<g ref="char:EOLhyphen"/>manded to remember from whence ſhe had fallen, and to repent. So the Church of <hi>Sardis, Revel.</hi> 3.3. <hi>Remember how thou haſt received, and heard; and hold faſt, and repent.</hi>
+            </p>
+            <p>Thus you ſee the neceſſity of Repentance to all, notwithſtanding which, How many be there in our Church ſeeming-Chriſtians, who content<g ref="char:EOLhyphen"/>ing themſelves with the Knowledge of the bare Name of Repentance, never ſeek after the Knowledge of the Nature thereof? How many who know the Nature, never practice any part thereof? Are not our fiduciaries ſuch as thoſe of St. <hi>Bernard,</hi> who tells of many wayes whereby men Irreligous were wont to excuſe their Sins? <hi>Aut non feci quod dicis, aut feci quod dic is, ſed bene<g ref="char:EOLhyphen"/>feci; aut ſi malé, non multum malé; aut ſi mul<g ref="char:EOLhyphen"/>tum malé, non mala intentione, ut ſentis.</hi> Ei<g ref="char:EOLhyphen"/>ther I have not done that which thou ſayeſt, or, if I have done it, I did well: But if 'twere
+<pb n="3" facs="tcp:172429:5"/>evil, 'twas no great hurt, I pray God I may ne<g ref="char:EOLhyphen"/>ver do worſe; but if it was great hurt, I had no intent to do it, as thou thinkeſt. Some ſtout<g ref="char:EOLhyphen"/>ly deny their ſins, and with a Whoriſh Fore<g ref="char:EOLhyphen"/>head put God (as it were) to his Proof for their ſins. They, <hi>Mal.</hi> 1.6. <hi>Wherein have we deſpiſed thy Name? Wherein have we polluted thee?</hi> Some with <hi>Jonah,</hi>
+               <note place="margin">
+                  <hi>Jonah</hi> 4.9.</note> diſobediently ſtick not to tell God to his Face, <hi>That Hee did well to be angry unto the Death.</hi> Some with <hi>Abemilech</hi> King of <hi>Gerar,</hi> who when he took the Wife of <hi>Abraham,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 20.5.</note> ſaid, <hi>He did it with an upright Heart.</hi>
+            </p>
+            <p>Some put it off upon others, as <hi>Adam</hi> upon <hi>Eve,
+<note place="margin">
+                     <hi>Gen.</hi> 3.12, 13. 1 <hi>Sam.</hi> 15.21</note> Eve</hi> upon the <hi>Serpent; Saul</hi> upon the <hi>People.</hi>
+            </p>
+            <p>But thus did not our princely Prophet, he took the Shame to himſelf, Judged himſelf, Judged himſelf, Condem<g ref="char:EOLhyphen"/>ned himſelf; came with an Halter about his
+<note n="*" place="margin">1 <hi>Kings</hi> 20. v. 31, 32.</note> Neck, as a Condemned Malefactor with his <hi>Pecavi,</hi> &amp; <hi>Miſereri mei Deus: Informa pauperis, Have mercy upon me O God.</hi>
+            </p>
+            <p>This Pſalm is a perfect Coppy, and exact pat<g ref="char:EOLhyphen"/>tern of true and ſound Repentance,
+<note place="margin">2 <hi>Sam.</hi> 12.13.</note> Penn'd by our Royal Prophet,
+<note place="margin">The title of the Pſalm.</note> when <hi>Nathan</hi> the Prophet came unto him after he had gone in to <hi>Bathſheba,</hi> and had defiled his body in <hi>Uriah's</hi> Bed, and imbrewed his hand in <hi>Uriah's</hi> blood.</p>
+            <p>From the firſt Verſe to the 18, he prayes for himſelf: From the 18. <hi>verſe</hi> to the end of the Pſalme, he prayed for the Church.</p>
+            <p>In praying for himſelf, he deſired to be waſh<g ref="char:EOLhyphen"/>ed, and cleanſed, and purged. <hi>Verſ.</hi> 2. <hi>Waſh me
+<pb n="4" facs="tcp:172429:6"/>throughly from my Wickedneſs: and cleanſe me from my ſin.</hi> Verſ. 7. <hi>Purge me with Hyſope, and I ſhall be clean; Waſh me, and I ſhall be whiter than Snow. q. d.</hi> Saith <hi>Junius;</hi> Waſh me more, purge me more, cleanſe me more in the Merits of
+<note n="‖" place="margin">1 <hi>Joh.</hi> 1.7. <hi>Heb.</hi> 9.14.</note> Chriſt's blood, from the guilt, and from the filth of all my Tranſgreſſions: <hi>Then will I teach Tranſgreſſors thy wayes, and Sinners ſhall be Converted unto thee. verſ.</hi> 13.9. <hi>q.d.</hi> O God, if thou wilt ſhew mercy to my poor Soul, I that have had my
+<note n="*" place="margin">
+                  <hi>verſ</hi> 12.</note> Bones broken, ſhall be an Inſtrument
+<note n="‖" place="margin">2 <hi>Cor.</hi> 1.4.</note> to bind up others; and will tell thy People that fear thy Name,
+<note n="(a)" place="margin">
+                  <hi>Mal.</hi> 3.16.</note> What
+<note n="(b)" place="margin">
+                  <hi>Pſal.</hi> 66.16.</note> 
+               <hi>great things thou haſt done for my poor Soul.</hi>
+            </p>
+            <p>Further, it will be an occaſion of God's glory, when he ſhould come to the Lord, and offer the Sacrifices of Praiſe, not Tipical but Real, not Legal but Evangelical Sacrifices: <hi>Cor concuſſum &amp; Contritum; A Broken and Contrite Heart. The Sacrifices of God are a Broken Spirit; a Broken and Contrite Heart, O God, thou wilt not diſpiſe.</hi>
+            </p>
+            <p>The Text contains two general Propoſiti<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="1">1. Affirmative, <hi>The Sacrifices of God are a broken Spirit.</hi>
+            </p>
+            <p n="2">2. Negative, <hi>A broken and contrite Heart, O God, thou wilt not deſpiſe.</hi>
+            </p>
+            <p>In the double Propoſition, you have,</p>
+            <p n="1">1. The Subject, <hi>Cor concuſſum &amp; contritum, A broken and contrite Heart.</hi>
+            </p>
+            <pb n="5" facs="tcp:172429:6"/>
+            <p n="2">2. The Predicate, <hi>Sacrificia Dei: The Sacrifices of God.</hi>
+            </p>
+            <p>In further handling of theſe words, I ſhall pro<g ref="char:EOLhyphen"/>poſe and follow this my wonted Method.</p>
+            <p>To ſpeak to you,
+<list>
+                  <item>1. By way of Explication.</item>
+                  <item>2. By way of Confirmation.</item>
+                  <item>3. By way of Application.</item>
+               </list>
+            </p>
+            <p n="1">1. By way of Explication; <hi>Heart</hi> and <hi>Spirit;</hi> by the former is not meant that fleſhly part which is in our breaſts, which we commonly call ſo, though ſometimes the word is ſo taken in Scrip<g ref="char:EOLhyphen"/>ture, 2 <hi>Kings</hi> 2.24. but by both is here meant, that which the Scripture ſometimes terms
+<note n="(c)" place="margin">
+                  <hi>Col.</hi> 3.16.</note> the <hi>Inner-man;</hi> ſometimes the <hi>Hidden man</hi>
+               <note n="(d)" place="margin">1 <hi>Pet.</hi> 3 4.</note> of <hi>the Heart,</hi> and that which we ordinarily call the <hi>Soul,</hi> with all it's Powers and Faculties. By <hi>Spirits</hi> here, is meant the Seat of ſorrow; the Spirit
+<note n="*" place="margin">
+                  <hi>Epheſ.</hi> 4.23</note> of the mind.</p>
+            <p>
+               <hi>Doct.</hi> If any man will offer acceptable Sacri<g ref="char:EOLhyphen"/>fice to God, let him prepare the Spirit of his mind.</p>
+            <p>God himſelf is a Spirit, and they that Wor<g ref="char:EOLhyphen"/>ſhip him, muſt worſhip him in <hi>Spirit and in Truth. John</hi> 4.24.
+<note place="margin">
+                  <hi>Pſal.</hi> 51. v. 6.</note> He loves Truth in the inward af<g ref="char:EOLhyphen"/>fections. <hi>Corpora fecit propter Spiritus; Ideoque etiam ſpiritualia, non corporea querit;</hi>
+               <note place="margin">B. Cooper <hi>Super. loc.</hi>
+               </note> ſaith a Lear<g ref="char:EOLhyphen"/>ned Prelate. He meant the bodies for the Spirits, and therefore ſeeks he not bodily but Spiritual Worſhip. Some there are, <hi>Qui ſua dant, non Seipſos:</hi> who offer to him not themſelves,
+<note place="margin">Seipſos.</note> but
+<pb n="6" facs="tcp:172429:7"/>that which is theirs; but it is a blind folly to think thou canſt pleaſe him, when thou wilt not give the ſervice of thy Heart and Spirit unto him, <hi>Prov.</hi> 23. verſ. 26. <hi>Mi ſili, da mihi Cor tuum.</hi>
+            </p>
+            <p>But leſt we ſhould think that every Spirit is ac<g ref="char:EOLhyphen"/>ceptable,
+<note place="margin">What a bro<g ref="char:EOLhyphen"/>ken Heart is.</note> he adds this Epethet, <hi>Broken and Con<g ref="char:EOLhyphen"/>trite.</hi>
+            </p>
+            <p>A broken heart is ſuch a heart that is hum<g ref="char:EOLhyphen"/>bled through a ſight and ſenſe of ſin; and wounded and prick't with the fear of God's an<g ref="char:EOLhyphen"/>ger, grieving for offending ſo good and ſo graci<g ref="char:EOLhyphen"/>ous a God: 1. Bathing his eyes in Tears, and melting his Soul into ſorrow, that ever he has offended ſo good a God that <hi>made</hi> him, diſpleaſed ſo ſweet a Saviour that <hi>redeemed</hi> him, griev'd ſo Holy a Spirit as hath <hi>ſtriven</hi> with him, tranſgreſ<g ref="char:EOLhyphen"/>ſed ſo Righteous a Law as was <hi>given</hi> to him, broken ſo gracious a <hi>Covenant</hi> as was made with him; begging Mercy and Pardon at the Throne of the Almighty's Grace, with as much earneſt<g ref="char:EOLhyphen"/>neſs and importunity, as the Hunger-bitten Beg<g ref="char:EOLhyphen"/>gar doth a Morſel of bread, or the Malefactor a Pſalm of Mercy.</p>
+            <p>This is that poor Spirit St. <hi>Mathew</hi> ſpeaks
+<note n="(e)" place="margin">
+                  <hi>Mat.</hi> 5.3.</note> of; this is that Spirit that trembles at God's word, which the Prophet <hi>Iſaiah</hi> ſpeaks
+<note n="(f)" place="margin">
+                  <hi>Iſa.</hi> 66.2.</note> of; this is that Heart-rent the Prophet <hi>Jonah</hi> ſpeaks
+<note n="(g)" place="margin">
+                  <hi>Jona.</hi> 2.12.13.</note> of. By the Prophet
+<note n="(h)" place="margin">
+                  <hi>Iſa.</hi> 42.3</note> and the <hi>Evangeliſt,</hi>
+               <note n="(i)" place="margin">
+                  <hi>Mat.</hi> 12.20.</note> it's compared to a bruiſed Reed; it's alſo in Scripture called a pricking
+<note n="(k)" place="margin">
+                  <hi>Acts</hi> 2.37.</note> of the heart; a
+<pb n="7" facs="tcp:172429:7"/>melting
+<note n="(l)" place="margin">
+                  <hi>Nah</hi> 2.10 <hi>Pſal</hi> 119.28.</note> of the heart, and ſuch like.</p>
+            <p>All which import the inward, unfeigned, hearty ſorrow, which is in a penitent Soul for offending a good and a gracious God.</p>
+            <p>And he puts the word in the Plural Number, <hi>Sacrificia,</hi> the Sacrifices; to ſhew, that a Heart bruiſed and broken, humbled and pricked,
+<note place="margin">Note.</note> in the ſight and ſenſe of ſin, is <hi>Inſtar Omnium,</hi> in<g ref="char:EOLhyphen"/>ſtead of all; all Sacrifice is nothing without it, all ſum'd up in it. Let men offer what Sacrifices they will, never ſo many, never ſo coſtly, never ſo excellent; yet if this be wanting, 'tis but in vain, God eſteems not of it: One broken Heart is more worth than a thouſand Sacrifices of great price. A man may offer many Sacrifices, Pray much, Preach much, Hear much, receive the Sacrament often, and give all his goods to feed the Poor; yet if there be not this <hi>broken Heart, and contrite Spirit,</hi> all's in vain, and to no
+<note n="(m)" place="margin">
+                  <hi>Pſal.</hi> 1. verſ. 11.12, 13, 14, 15, 16, 17.</note> purpoſe: We cannot pleaſe God in any thing we do without <hi>a broken and contrite heart.</hi>
+            </p>
+            <p>The Sacrifices of God.
+<note n="*" place="margin">Chap. 66.24.</note> The adding God's Name to any think in Scripture, gives it an Em<g ref="char:EOLhyphen"/>minency, a Luſtre, a Glory, above all other things. As, there's mention made of the Wa<g ref="char:EOLhyphen"/>ters
+<note n="(n)" place="margin">
+                  <hi>Pſal.</hi> 65.9.</note> of God; the Mountain
+<note n="(o)" place="margin">
+                  <hi>Exod.</hi> 3.1</note> of God; the Trees
+<note n="(p)" place="margin">
+                  <hi>Pſal</hi> 104 16.</note> of God, <hi>&amp;c.</hi> And in the New Teſtament, the Peace
+<note n="(q)" place="margin">
+                  <hi>Phil.</hi> 4.7</note> of God, <hi>&amp;c.</hi> And here in the Text, <hi>The Sacrifices of God;</hi> moſt rare and excellent Sacrifices, ſuch as God will not diſ<g ref="char:EOLhyphen"/>piſe. <hi>A broken and a contrite Heart, O God, thou
+<pb n="8" facs="tcp:172429:8"/>wilt not diſpiſe.</hi> The Phraſe is low, yet hath a <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in it, as 1 <hi>Theſ.</hi> 5.20. <hi>Diſpiſe not Pre<g ref="char:EOLhyphen"/>pheſyings,</hi> and Heb. 12.5. <hi>Diſpiſe not the Chaſten<g ref="char:EOLhyphen"/>ing of the Lord:</hi> And ſo imports the choyceſt way of acceptation. <hi>A broken and contrite Heart, O God, thou wilt not diſpiſe:</hi> thou doſt love and like, and art well pleaſed with <hi>a broken Heart.</hi>
+            </p>
+            <p>This <hi>broken and contrite Heart is Sacrifice TO GOD;</hi> moſt rare and excellent Sacrifice; as the Mountains of God are high Mountains: and the Cedars of the Lord are tall Cedars: So <hi>a broken Heart, and a contrite Spirit,</hi> being <hi>the Sacrifices of God,</hi> are moſt rare, excellent, and choyce Sacri<g ref="char:EOLhyphen"/>fices.</p>
+            <p>From the Words thus conſidered, this is the point of Inſtruction.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>2</label> Of all Services and Sacrifices to be preſented to God,<hi>A broken and a contrite Heart</hi> is moſt plea<g ref="char:EOLhyphen"/>ſing, and acceptable.</p>
+            <p>
+               <hi>Firſt,</hi> God will graciouſly look upon ſuch a Heart.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Demonſt. </seg>1</label> To this purpoſe ſpeaks <hi>Jehovah</hi> by the Evan<g ref="char:EOLhyphen"/>gelical Prophet,<hi>Iſa.</hi> 66.2. <hi>Thus ſaith the Lord, Heaven is my Throne, and the Earth my Foot-ſtool: Where is the Houſe that ye build unto me? And where is the place of my reſt? For all thoſe things hath my hand made, and all thoſe things have been, ſaith the Lord: But to this man will I look, even to him that is poor, and of a contrite Spirit, and that trembleth at my Words.</hi> See, how the Lord lifts up himſelf unto the higheſt Heavens; <hi>Heaven is
+<pb n="9" facs="tcp:172429:8"/>my Throne, and the Earth is my Foot-ſtool.</hi> Oh! How ſhall I come and Appear before ſo great a God; a God of ſuch terrible Majeſty, and migh<g ref="char:EOLhyphen"/>ty Powers! Why! Be not afraid poor Soul, the Lord will caſt a look of Love upon thee, not only a look of Pity, but alſo a look of Compla<g ref="char:EOLhyphen"/>cency. <hi>To him will I looke ſayes God, even to him that is poor:</hi> 1. <hi>Vile and baſe in his own eyes;</hi> and 2d. <hi>Of a contrite Spirit, and that trembles at my Word.</hi> q. d. I have more regard to this poor Trembler at my Word, than I have to the great Temple that was built for my Worſhip. Gen. 4.4. <hi>God had reſpect to</hi> Abel, <hi>and to his Offering. The Sacrifices of God are a broken Spirit; a broken and contrite Heart, O God, thou wilt not diſpiſe.</hi> That's the firſt reaſon of God's acceptance of <hi>a broken Heart,</hi> becauſe God will graciouſly look upon ſuch a heart.</p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Demonſt. </seg>2</label> The Lord ſo delights <hi>in a broken and contrite Heart,</hi> that he not only looks on him, but alſo draws nigh unto him. To this purpoſe the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> very ſweetly, <hi>Pſal.</hi> 34.16, 17.
+<note place="margin">
+                  <hi>Pſalm</hi> 34.17, 18.</note> 
+               <hi>The Righte<g ref="char:EOLhyphen"/>ous cry, and the Lord heareth them; and delivereth them out of their Troubles: The Lord is nigh unto them that are of a contrite Heart: and will ſave ſuch as are of an humble Spirit.</hi> 'Tis a great privi<g ref="char:EOLhyphen"/>ledge that we can <hi>draw nigh to God,</hi> that God does hold out the golden Scepter of his Grace, and allow us to come and touch the top of it: We might have been in Hell long agoe, roaring un<g ref="char:EOLhyphen"/>der an endleſs Damnation, far enough from God, had not he ſpared us, <hi>Numb.</hi> 16. verſ. 9.
+<pb n="10" facs="tcp:172429:9"/>ſaid <hi>Moſes</hi> there to <hi>Korah</hi> and his complices: <hi>Seemeth it a ſmall thing unto you, that the God of</hi> Iſrael <hi>had ſeparated you from the Congregation of</hi> Iſrael, <hi>to take you near to himſelf, to do the Service of the Tabernacle?</hi> Seemeth this a ſmall thing unto you? Oh! 'tis a great priviledg that we can <hi>draw nigh unto God. It is good for me to draw near to God,</hi> ſaith the Pſalmiſt, with a <hi>Probatum eſt,</hi> Pſal. 73. <hi>ult.</hi> Now then if this be ſo great a priviledg for you <hi>to draw nigh to God,</hi> Oh! What a tranſcendent, unſpeakable priviledg is it for God to draw nigh to you! to delight in your Perſons! to delight in your Prayers, to bottle your tears, and to Regiſter your groans! And this he doth <hi>to broken and contrite Hearts; the Lord is nigh unto all them that are of a contrite heart; Nigh unto them in all that they call upon him for.</hi>
+            </p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Demonſt. </seg>3</label> 
+               <hi>A broken and contrite Heart</hi> is pleaſing and acceptable to God, for he <hi>will</hi> come and <hi>dwell</hi> in that Soul: <hi>Thus ſaith the Holy and Lofty One that inhabites Eternity, whoſe Name is Holy: I dwell in the High and Holy place, with him alſo that is of a contrite and humble Spirit, to revive the Spirit of the humble, and to revive the Spirit of the contrite Ones.</hi> God has two chief places of reſidence, <hi>viz.</hi> The higheſt Heaven, and the loweſt Heart; the one he fills with his glorious, the other with his graci<g ref="char:EOLhyphen"/>ous Preſence. He dwells in the High and Holy place; the Cherubins worſhip him (though with covering their bluſhing Faces) <hi>and Thouſand
+<pb n="11" facs="tcp:172429:9"/>thouſands
+<note n="(n)" place="margin">
+                     <hi>Dan.</hi> 7.10.</note> of Angels miniſter unto him,</hi> yet he dwells and holds his Reſidence in <hi>a broken and contrite Heart; he will not deſpiſe, yea, he delights to dwell there.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Demonſt </seg>4</label> Laſtly, <hi>A broken and contrite Heart</hi> is pleaſing,and acceptable to God; for he heals <hi>a broken Heart.</hi> To this purpoſe ſweetly ſpeaks <hi>Jehovah</hi> by his Evangelical Prophet, <hi>Iſa.</hi> 57.15. <hi>For thus ſaith the High and Lofty One that Inhabiteth Eternity, whoſe Name is Holy, I dwell in the High and Holy place, with
+<note n="‖" place="margin">Note this.</note> him alſo that is of a contrite and humble Spirit, to revive the Spirit of the humble, and to revive the Heart of the contrite Ones.</hi> Verſ. 18. <hi>I have ſeen his Wayes, and will heal him: I will lead him alſo, and reſtore Comfort unto him, and to his
+<note n="*" place="margin">
+                     <hi>Mat.</hi> 5.4.</note> Mourners. He heals the broken in Heart, and binds up their
+<note n="‖" place="margin">
+                     <hi>Heb.</hi> Griefs. <hi>Iſa.</hi> 53.5. 1 <hi>Pet.</hi> 2 24.</note> Wounds,</hi> Pſal. 147.3. Indeed, ſometimes the Lord hides his Face, and with-draws
+<note n="(n)" place="margin">
+                  <hi>Iſa.</hi> 54. verſ. 7.8.</note> the Light of his Countenance; then <hi>David</hi> cries,
+<note n="(o)" place="margin">
+                  <hi>Pſal.</hi> 6.3.2,</note> 
+               <hi>Heal me O Lord, for my Bones are vexed: My Soul is alſo ſore troubled, but thou O Lord, how long?</hi> Then <hi>Job</hi> cries, <hi>The terrors of God
+<note n="(p)" place="margin">
+                     <hi>Job</hi> 6 4.</note> ſet themſelves in Battle array againſt me, the Poyſon whereof drinks up my Spirits. But then the Lord comes in in due ſeaſon, and he heals the broken in Heart, and giveth Medicine to heal their Sickneſs, and bindeth up their Wounds.</hi> O happy thoſe Sighs, thoſe Sobs, which ſin hath made in thy Soul, when Chriſt himſelf ſhall come to bind them up!</p>
+            <p>Thus you ſee that of all <hi>ſervices</hi> and <hi>ſacrifices</hi> preſented to God, <hi>a broken and contrite Heart</hi> is moſt pleaſing and acceptable.</p>
+            <pb n="12" facs="tcp:172429:10"/>
+            <p>The Reaſons are chiefly two:</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> 
+               <hi>Firſt,</hi>Becauſe it is a Spiritual ſacrifice, there<g ref="char:EOLhyphen"/>fore an Acceptable Sacrifice. It is not the Sacri<g ref="char:EOLhyphen"/>fice of a dead Carkaſs; 'tis a <hi>living Sacrifice, a broken Heart, and a contrite Spirit.</hi> The heart is the beſt of Man, and <hi>a broken Heart</hi> is the beſt of Hearts. <hi>I beſeech you Brethren, by the Mer<g ref="char:EOLhyphen"/>cies of God,</hi> (ſaith the Apoſtle) <hi>That yee pre<g ref="char:EOLhyphen"/>ſent your Bodies A LIVING Sacrifice, Holy, ac<g ref="char:EOLhyphen"/>ceptable unto God, which is your reaſonable ſervice,</hi> Rom. 12.1. where the Apoſtle (very patheti<g ref="char:EOLhyphen"/>cally) uſeth an Obſecration, an Obteſtation, a Compellation, an Abjurgation, and all, to preſs this duty home upon their Converſati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>The duty is to preſent their bodies a [living] Sacrifice, living without the Soul it cannot be, <hi>For the body without the Spirit is dead,</hi>
+               <note place="margin">
+                  <hi>John</hi> 6.69.</note> James 2.26. <hi>Bodily exerciſe profits little</hi> (if it be only bodily) 1 <hi>Tim.</hi> 4.8. <hi>It is the Spirit that quickens, the fleſh profits nothing.</hi>
+            </p>
+            <p>To offer this Spiritual Sacrifice, the Apoſtle abjures them by the mercies of God; <hi>I beſeech you Brethren by the mercies of God.</hi> The Apoſtle might have ſaid, there's a conſuming fire, there are everlaſting burnings: There's a Hell, an endleſs Damnation, a place of the Damned, and that muſt be your Eternal eſtate and condition, the portion of your Cup; if you preſent not your bodies <hi>a living Sacrifices to God.</hi> But he doth adjure them, and conjure them by the mercies of
+<pb n="13" facs="tcp:172429:10"/>God, to perform it: What if Chriſt were here, and ſaid to thee; <hi>Oh! Sinner, come lay thy Heart in my lap, and I will bind up the Wounds of thy Soul; I will welcome thee, and I will ſave thee.</hi> Would not this raviſh our hearts, to hear a tender Saviour ſo lo<g ref="char:EOLhyphen"/>vingly inviting us, ſo graciouſly promiſing us? There's nothing can break a Soul more in an E<g ref="char:EOLhyphen"/>vangelical way, than the ſight
+<note n="*" place="margin">2 <hi>Cor.</hi> 7.10. <hi>Zach.</hi> 12 10.</note> and ſenſe of God's mercy in Jeſus Chriſt. As Naturalliſts obſerve, <hi>That the warm Blood of a Goat, doth ſoften an Adamant-Stone; ſo doth the ſerious conſideration of the warm Blood of Jeſus Chriſt, our ſcape-goate, ſoften an Ada<g ref="char:EOLhyphen"/>mant-heart.</hi> But more of this amongſt the means and directions
+<note n="*" place="margin">Direction the ſixth.</note> for getting <hi>a broken Heart.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> 
+               <hi>Secondly,</hi>Of all Services and Sacrifices pre<g ref="char:EOLhyphen"/>ſented to God, <hi>a broken and contrite Heart</hi> is moſt pleaſing and acceptable, becauſe 'tis a Believing Sacrifice. <hi>Faith and Repentance</hi> (like <hi>Hypocrates</hi> Twins) <hi>are born and bred together in the ſacred Womb of a ſanctified Soul, Zach.</hi> 12.10. It was promiſed concerning Evangelical Converts; <hi>I will pour upon the Houſe of David, and up the Inhabi<g ref="char:EOLhyphen"/>tants of Jeruſalem, the Spirit of grace and of ſuppli<g ref="char:EOLhyphen"/>cation; and they ſhall look on me whom they have pier<g ref="char:EOLhyphen"/>ced, and they ſhall mourn for him as one mourneth for his only Son, and ſhall be in bitterneſs for him, as one is in bitterneſs for his firſt-born,</hi> Iſa. 42.1. Chriſt is called, <hi>Him in whom the Father delights.</hi> God proclaimed him from Heaven, to be <hi>his only be<g ref="char:EOLhyphen"/>loved Son in whom he is well pleaſed:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3. ult. <hi>Mat.</hi> 17.5.</note> not only pleaſ<g ref="char:EOLhyphen"/>ed [with] him, but alſo pleaſed [in] him, with
+<pb n="14" facs="tcp:172429:11"/>all broken-hearted Sinners; they muſt needs then be the delight of the Lord alſo. Thus I have done with Confirmation, and [come in the laſt place] to Application.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> 
+               <hi>Let us labour to get,and keep; to attain, and maintain ſuch a heart all our dayes.</hi>
+            </p>
+            <p>And here (for Methods ſake, and your better Underſtanding) I ſhall endeavour to ſhew you theſe three things:</p>
+            <p n="1">1. The particular Acts <hi>of a broken and contrite Heart.</hi>
+            </p>
+            <p n="2">2. The moſt infallible marks and ſigns <hi>of a broken and contrite Heart.</hi>
+            </p>
+            <p n="3">3. The moſt probable means both to attain, and maintain ſuch a heart all your dayes; <hi>That your end may be bleſſed.</hi>
+            </p>
+            <p>
+               <note place="margin">1. The Acts of a broken and contrite Heart.</note> There are eight acts <hi>of a broken &amp; contrite Heart.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> A powerful conviction of the heart and conſcience of <hi>our ſinful eſtate, and miſerable condi<g ref="char:EOLhyphen"/>tion,</hi> cauſed by the preaching of the Word out<g ref="char:EOLhyphen"/>wardly, and by the working of the Spirit inward<g ref="char:EOLhyphen"/>ly, when God ſets our ſins in order before us, and makes us know our Abominations, <hi>Pſal.</hi> 50.21. <hi>How many are mine Iniquities, and my ſins? make me to know mine Iniquity, and my ſins,</hi> Job 13.23.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>2</label> 
+               <hi>Secondly,</hi>an in ward ſorrow of the heart in the ſight, and ſenſe of ſin; when <hi>the eye doth affect the heart,</hi> Lam. 3.51. when upon the Diſcove<g ref="char:EOLhyphen"/>ries of ſin, <hi>the heart is prick'd</hi> with compunction, and godly contrition, <hi>Acts</hi> 2.37. There is not the leaſt ſin we have committed, but will fetch
+<pb n="15" facs="tcp:172429:11"/>a tear from our eyes, and a ſigh from our hearts, if we weigh and conſider it as we ought. It grieves the Holy Spirit of God, it procured the Death of Chriſt: Let us therefore <hi>look upon him whom we have pierced,</hi> [by our ſins] and weep over him, <hi>Zech.</hi> 12.10.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>3</label> 
+               <hi>Thirdly,</hi> Humiliation of the inward man,in the ſight and ſenſe of ſin. <hi>O Lord, I am but duſt and
+<note n="*" place="margin">
+                     <hi>Gen.</hi> 18 27</note> aſhes,</hi> ſaid Father <hi>Abraham. I am leſs
+<note n="(r)" place="margin">
+                     <hi>Gen.</hi> 32.10.</note> than the leaſt of all thy Mercies,</hi> ſaid the Patriarch <hi>Jacob. I am not worthy to be called thy Son,</hi> ſaid
+<note n="(s)" place="margin">
+                  <hi>Luke</hi> 15.19.</note> the Pro<g ref="char:EOLhyphen"/>digal. <hi>I am not worthy
+<note n="(t)" place="margin">
+                     <hi>John</hi> 1.27</note> to ſtoope down, and unlooſe his ſhooes Latchet,</hi> ſaid <hi>John</hi> the Baptiſt concerning our bleſſed Saviour. <hi>Bleſſed are the Poor in ſpirit: For theirs is the Kingdom of Heaven,</hi> Mat. 5.3. Oh! How vile and baſe doth a bro<g ref="char:EOLhyphen"/>ken-hearted ſinner
+<note n="(v)" place="margin">
+                  <hi>Job</hi> 40.4. &amp; 42.6. <hi>Prov.</hi> 30 2. <hi>Luke</hi> 1.48.</note> ſeem in his own eyes! To ſuch will God be gracious: <hi>He gives grace to the humble,</hi> 1 Pet. 5.5.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>4</label> 
+               <hi>Fourthly,</hi>An Holy anger and Indignation both againſt our ſins, and againſt our ſelves for our ſins. A pregnant place to this purpoſe is that in <hi>Ezek.</hi> 6.9. <hi>They that eſcaped of you, ſhall remember me among the Nations, whither they ſhall be carried Captive, becauſe I am broken with their Whoriſh heart, which hath departed from me, and with their eyes which go a Whoring after their Idols, and they ſhall
+<note n="(w)" place="margin">Be diſ<g ref="char:EOLhyphen"/>pleaſed with themſelves.</note> loath themſelves for the Evils which they have committed in all their Abominations.</hi> And the A<g ref="char:EOLhyphen"/>poſtle ſpeaks of godly ſorrow, and of the quali<g ref="char:EOLhyphen"/>ties of it; amongſt the reſt, he mentions Indig<g ref="char:EOLhyphen"/>nation
+<pb n="16" facs="tcp:172429:12"/>againſt ſin,
+<note place="margin">Indignations</note> 2 <hi>Cor.</hi> 7.11. <hi>What Indignati<g ref="char:EOLhyphen"/>ons?</hi> Such as was in <hi>Ephraim bemoaning himſelf,</hi> and lamenting his ſin; who <hi>ſmote upon his Thigh, ſcil.</hi> in token of Indignation, and an Holy Anger againſt his ſin, and himſelf for his ſin, <hi>Jer.</hi> 31.18, 19.</p>
+            <p>
+               <hi>Fifthly,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>5</label> An Holy ſhame of the Soul, when the Soul doth bluſh upon the inward ſight and ſenſe of ſin. A pregnant place to this purpoſe, <hi>Ezra.</hi> 9.6. where that Holy man in his Confeſſion thus ſpeaks; <hi>O my God, I am aſhamed, and bluſh to lift up my face to thee my God. For our Iniquities are in<g ref="char:EOLhyphen"/>creaſed over our heads,and our Treſpaſſes are grown up to the very Heavens.</hi>
+               <note place="margin">Note. </note> Another pregnant Scrip<g ref="char:EOLhyphen"/>ture to this purpoſe, is <hi>Jer.</hi> 31. verſ. 19. <hi>I have heard Ephraim bemoaning himſelf thus; ſurely
+<note n="*" place="margin">Mark the Phraſe.</note> after I was turned, I repented; and after I was inſtructed, I ſmote upon my Thigh: I was aſhamed, yea, even con<g ref="char:EOLhyphen"/>founded, becauſe I did bear the Reproach of my Youth.</hi> Ezek. 16.61. <hi>Then ſhalt thou remember thy wayes, and be aſhamed.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>6</label> 
+               <hi>Sixthly,</hi>An inward Loathing and Deteſtati<g ref="char:EOLhyphen"/>on of ſin, both in our ſelves and others.</p>
+            <p>We read of <hi>Amnon,</hi> that after he had Raviſhed his Siſter <hi>Tamar,</hi> the hatred with which he hated her, was more than the Love wherewith he loved her before, 2 <hi>Sam.</hi> 13.15. So doth the broken hearted-ſinner hate ſin, more than ever he loved it in times paſt; He hates it with an exceeding bitter hatred. <hi>I hate, and abhor Lying,</hi> Pſal. 119.163. <hi>I hate every falſe way,</hi> verſ. 104. <hi>Yee that love
+<pb n="17" facs="tcp:172429:12"/>the Lord, ſee that ye hate the thing which is Evil,</hi> Pſal. 97.10. <hi>Abhor that which is Evil,</hi> &amp;c. <hi>Rom.</hi> 12.9.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>7</label> 
+               <hi>Seventhly,</hi>A moſt ſtrict and firm reſolution a<g ref="char:EOLhyphen"/>gainſt all manner of ſin for time to come. A preg<g ref="char:EOLhyphen"/>nant Text, <hi>Ezra.</hi> 10. <hi>verſ.</hi> 2.3. when the peo<g ref="char:EOLhyphen"/>ple had repented for <hi>taking ſtrange Wives,</hi> they reſolved, ſaying, <hi>Let us make a Covenant with our God, to put away all the Wives, and ſuch as are born of them.</hi> So <hi>Hoſ.</hi> 14.8. <hi>Ephraim ſhall ſay, What have I to do any more with Idols?</hi> What was the ſaying of <hi>Elihu</hi> in <hi>Job,</hi> Is the Language of eve<g ref="char:EOLhyphen"/>ry man and woman who has <hi>a broken and contrite Heart.</hi> Job 34.32. <hi>That which I ſee not, teach thou me: If I have done Iniquity, I will do no more.</hi> Epheſ.
+<note place="margin">
+                  <hi>John</hi> 8.11.</note> 4.28. <hi>Let him that ſtole, ſteal no more.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Act. </seg>8</label> 
+               <hi>Finally,</hi>This <hi>broken and contrite Heart</hi> conſiſts in an unfeigned weeping of the tears of the eyes, cauſed by <hi>the ſorrow</hi> of the heart for ſin. <hi>All the Night waſh I my Bed, and water my Couch with my teares,</hi> Pſal. 6.6. <hi>Ezek.</hi> 7.16. It's ſaid of the <hi>Rem<g ref="char:EOLhyphen"/>nant</hi> whom God will ſave, They ſhall mourn <hi>like the Doves of the Vallies, every one for his Iniquity. And</hi> Peter <hi>(when he remembred the words of Chriſt,</hi> and his own denial) <hi>went out and wept bitterly,</hi> Mat. 26. <hi>ult.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſtion. </seg>
+               </label> Queſt.<hi>But how ſhall I know that I have this</hi> broken and contrite Heart?</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Anſw.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Tentate probate:Ex<g ref="char:EOLhyphen"/>amine, prove,</hi> the Apoſtles Counſel, 2 <hi>Cor.</hi> 13.5. <hi>For if a man think himſelf to be ſomething when he is nothing, he deceives himſelf.</hi> (As the Church of
+<pb n="18" facs="tcp:172429:13"/>
+               <hi>Loadicea</hi>
+               <note n="(x)" place="margin">
+                  <hi>Revel.</hi> 3.17.</note> who ſaid ſhe was Rich, and increaſed with Goods, and had need of nothing: When ſhe was wretched, and miſerable, and poor, and blind, and naked.) <hi>But let every one prove his own works,</hi> &amp;c. <hi>Gal.</hi> 6. verſ. 3.4.</p>
+            <p>I therefore come (in the next place) to lay down the moſt infallible Marks and Signs <hi>of a broken and contrite Heart;</hi> by the ſight of which, you may know whether you have ſuch hearts or no. <hi>Oh that there were in us ſuch Hearts!</hi>
+            </p>
+            <p>
+               <hi>A broken and contrite Heart</hi> doth repreſs cenſori<g ref="char:EOLhyphen"/>ouſneſs.
+<note place="margin">Marks of a broken Heart.</note> A truly <hi>broken and contrite Heart</hi> is moſt ſenſible of it's own ſin, knows moſt evil by it ſelf, judgeth it's own ſin greateſt, and it's own ſtate ſaddeſt: Hath neither liſt nor leiſure to cenſure others. The Apoſtle's Caution and Counſel, <hi>Rom.</hi> 14.13. runs thus: <hi>Let us not judge one another, but judge this rather, that no man put a ſtumbling Block, or AN OCC ASION to fall in his Brothers way.</hi> What an excellent inſtance have we in <hi>Joſeph,</hi> who is called a Juſt man for his La<g ref="char:EOLhyphen"/>bour: He had look'd upon <hi>Mary</hi> formerly as a Godly gracious Woman; and ſhe being now with Child, he knew not what to think of it; but having a purpoſe to leave her (being former<g ref="char:EOLhyphen"/>ly contracted to her) that he might not bring Re<g ref="char:EOLhyphen"/>proach upon himſelf, and to put her away pri<g ref="char:EOLhyphen"/>vately, that the World might not take notice of any ſuch thing, that ſo he might not bring Re<g ref="char:EOLhyphen"/>proach upon her, <hi>Mat.</hi> 1.19. <hi>Joſeph her Husband being a juſt man, and not willing to make her a pub<g ref="char:EOLhyphen"/>lique
+<pb n="19" facs="tcp:172429:13"/>Example, was minded to put her away privily.</hi> That was his Care, his Honeſty, his Righteouſ<g ref="char:EOLhyphen"/>neſs. But where ſhall we find the like Righte<g ref="char:EOLhyphen"/>ouſneſs, or Tenderneſs now a dayes, to conceal the Failings, and to ſave the Credit of our Bre<g ref="char:EOLhyphen"/>thren! We are glad if we have any thing to pa<g ref="char:EOLhyphen"/>radigmatize them for, and ſay, as they did of <hi>Jeremy,</hi> the Lord's Prophet,
+<note n="(y)" place="margin">
+                  <hi>Jer.</hi> 20.10. <hi>Pſal.</hi> 50. verſ. 20.21.</note> 
+               <hi>Report, and we will report it</hi> 
+               <q rend="inline">That Godly Emperour <hi>Conſtantine,</hi> was quite of another mind (as I find him
+<note n="(z)" place="margin">(z) <hi>Omnis neſtra ſides pendet ab Hiſtoria.</hi> Owens <hi>E<g ref="char:EOLhyphen"/>pigrams.</hi> lib. 12. ch. 2.</note> upon Record) who was wont to ſay; <hi>If he ſhould find a Chriſtian-Biſhop, or Paſtor, overtaken in any Infamous act, He would pull off his Purple Robe to throw upon him to cover him, rather then that any ſhould come by his means to hear of it, to the ſcandal of Religion.</hi>
+               </q> I am ſure this is moſt like to the Example of Chriſt, who caſts his Pur<g ref="char:EOLhyphen"/>ple Robe upon us, that our ſins ſhould not be taken notice of.</p>
+            <p n="2">2. A broken is a Praying heart. We read, <hi>Luk.</hi> 15. concerning the
+<note n="(a)" place="margin">
+                  <hi>Verſ.</hi> 17.</note> Prodigal Son, that when once he had an <hi>humbled Heart,</hi> and <hi>acontrite Spirit,</hi> he fell to Prayer preſently, <hi>Verſ.</hi> 21. <hi>The Son ſaid unto him, Father, I have ſinned againſt Heaven, and
+<note n="(b)" place="margin">
+                     <hi>Pſal.</hi> 71.4</note> in thy ſight; and am no more worthy to be called thy Son.</hi> And Chriſt, Heb. 5.7. <hi>In the dayes of his Fleſh offered up Prayers and Supplications, with ſtrong cries and tears.</hi> And Rom. 8.26. We read <hi>of ſighs and groans, that cannot be uttered or expreſſed.</hi> Now, Where are thoſe Prayers? Where are thoſe Cryes? Where are thoſe Tears? Where are thoſe
+<pb n="20" facs="tcp:172429:14"/>Sighs? Where are thoſe Groans? Where are thoſe
+<note n="(c)" place="margin">
+                  <hi>Jer.</hi> 31.18.</note> Moans? Thou haſt liv'd a great while in the World, but oh! When haſt thou wept with
+<note n="(d)" place="margin">
+                  <hi>Jer.</hi> 9.1. <hi>Lam.</hi> 1.16.</note> 
+               <hi>Jeremy,</hi> for the ſins of the times, and thine own Tranſgreſſions? When haſt thou poured out thy Soul to the Lord? I fear thou art ſo far from this, that thy heart is hardened; and if ſo, the Lord will one day break thy heart with the fury of his wrath, and hot diſpleaſure, that burns to the loweſt Hell.</p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Mark. </seg>3</label> 
+               <hi>A broken Heart</hi> is an humble low heart; Oh very low, it can caſt it ſelf in the Duſt at the feet of Chriſt, and think any thing on this ſide Hell to be rich Mercy. He is
+<note n="(e)" place="margin">
+                  <hi>Mat</hi> 5.3</note> poor, and
+<note n="(f)" place="margin">
+                  <hi>Mat.</hi> 5 7</note> meek in Spirit. You know how <hi>Abraham</hi>
+               <note n="(g)" place="margin">
+                  <hi>Gen.</hi> 18.27.</note> treated with God, and pleaſed him, when he addreſſed himſelf to him, with an Acknowledg<g ref="char:EOLhyphen"/>ment of his Vileneſs: <hi>Behold, Now I have taken upon me to ſpeak to the great God, who am but Duſt and Aſhes;</hi> You know Chriſt lay
+<note n="(h)" place="margin">
+                  <hi>Mat.</hi> 26.39. <hi>Mark</hi> 14.35</note> grovelling on the ground all Night. <hi>I abhor
+<note n="(i)" place="margin">
+                     <hi>Job</hi> 42.6.</note> my ſelf, and repent in Duſt and Aſhes,</hi> ſaid <hi>Job.</hi> If then thou haſt <hi>a broken Heart,</hi> thou haſt a low heart; thou art little and low in thine own eyes; vile and baſe in thine own ſight. <hi>Pſal.</hi> 34.6. <hi>This poor man crieth, and the Lord heareth him.</hi> Give this poor man ſomething before he go away; he is ſuch a low Spirit, that he is one ready to ſink to Hell, were it not for the Mercies of God, the Merits of Jeſus Chriſt, and the ſweet Promiſes of the Goſ<g ref="char:EOLhyphen"/>pel. Yea, remember the Woman of <hi>Canaan,</hi>
+               <note n="(k)" place="margin">
+                  <hi>Mat.</hi> 15. verſ. 23. &amp;c.</note>
+               <pb n="21" facs="tcp:172429:14"/>ſhe was called Dog, and yet would take no re<g ref="char:EOLhyphen"/>pulſe, but cried; ſaying, <hi>Lord, I do begg one drop of Mercy, one crumb of Comfort: One crumb of the bread of Life, one drop of the water of Life, to ſatisfie a poor languiſhing Soul, ſweet Jeſu, for thy Mercies ſake; ſome drops of the blood of Chriſt to ſoften my hard heart, and to break it throughly.</hi>
+            </p>
+            <p n="4"> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Signe. </seg>4</label> 4. If thou haſt this <hi>broken and contrite Heart,</hi>that is ſo acceptable to God, thou doſt mourn.</p>
+            <list>
+               <item>1. For thine own Sin.</item>
+               <item>2. For the Sins of others.</item>
+            </list>
+            <p n="1">1. For thine own Sins, <hi>David</hi> did ſo in this Pſalm; he did Penance for his Sin in a
+<note n="*" place="margin">The Robe of Chriſt's Righteouſ<g ref="char:EOLhyphen"/>neſs. <hi>Verſ</hi> 7. <hi>Phil.</hi> 3.8.9. <hi>Revel.</hi> 19. Verſ. 8. <hi>and</hi> 14.</note> white-Sheet; he mourned daily for his own Sin; <hi>ſcil.</hi> For the Root of the matter within, and for the Fruit of the matter without; for his Original Corruption, for his actual Tranſgreſſion; for the Sin of his Nature, and the Sins of his Life. He opens his Soul to the Lord, and leaves this Pſalm to the Church upon Record; wherein he confeſſeth and mourns for his Sins, <hi>Mat.</hi> 26. <hi>ult.</hi>
+            </p>
+            <p n="2">2. For the Sins of others; <hi>Rivers of Tears run down mine eyes,</hi> (ſaid <hi>broken-hearted David) be<g ref="char:EOLhyphen"/>cauſe men keep not thy Law,</hi> Pſal. 119.136. <hi>Many walk</hi> (ſaith the Apoſtle) <hi>of whom I told you often, and now tell you even weeping, that they are Enemies to the Croſs of Chriſt,</hi> Phil. 3.18. And <hi>Ezek.</hi> 9.4. we read of them that <hi>ſigh, and mourn, and cry, for the Iniquities and Abominations that were committed in the Land.</hi>
+            </p>
+            <pb n="22" facs="tcp:172429:15"/>
+            <p n="5">5. <label type="milestone">
+                  <seg type="milestoneunit">Signe. </seg>5</label> 
+               <hi>A broken Heart</hi> is a loving heart; if thou haſt <hi>a broken and contrite Heart,</hi> thou loveſt any thing of Chriſts, any thing that bears his Image, and Superſcription. When thou comeſt to that glo<g ref="char:EOLhyphen"/>rious Goſpel-Ordinance of the <hi>Lord's Supper</hi> ſo as to diſcern
+<note n="*" place="margin">1 <hi>Cor.</hi> 11.29.</note> the Lord's Body; thou meditateſt, Oh, there's the Body and Blood of my Lord and Saviour Jeſus Chriſt! Oh, here's the Son of God that made up the Breach between God &amp; my Soul! Oh, Jeſus Chriſt, here's the Son of God that was incarnate for me, <hi>And paid a price for my Re<g ref="char:EOLhyphen"/>demption. The Penitant Woman,</hi> Luk. 7.47. <hi>She loved much,</hi> becauſe her great and grievous <hi>ſins were for<g ref="char:EOLhyphen"/>given.</hi>
+            </p>
+            <p>I will ſum up the Acts and Signs <hi>of a broken Heart</hi> in theſe eighth following Particulars, as a famous Divine hath contracted them.</p>
+            <p n="1">1.
+<note place="margin">Eight Signs contracted.</note> He that is truly broken, will be contented with nothing but Mercy from God, in Jeſus Chriſt. <hi>He hath wounded, and he muſt heal,</hi> Hoſ. 6.1.</p>
+            <p n="2">2. He judgeth ſin the greateſt evil, and the fa<g ref="char:EOLhyphen"/>vour of God the greateſt good.</p>
+            <p n="3">3. He had rather hear of Mercy than of a Kingdome.</p>
+            <p n="4">4. He hath mean Conceits of himſelf: And thinks he is not worth the Earth he treads on.</p>
+            <p n="5">5. Towards others, he is not cenſorious, as be<g ref="char:EOLhyphen"/>ing taken up at home; but is full of Simpathy and Compaſſion to thoſe that are under God's hand.</p>
+            <p n="6">6. He counts them that walks in the Comforts of Gods Spirit, the happieſt men in the World.</p>
+            <pb n="23" facs="tcp:172429:15"/>
+            <p n="7">7. He trembles at the Word of God, and ho<g ref="char:EOLhyphen"/>nours the very Feet of theſe bleſſed Inſtruments that brings Peace unto him.</p>
+            <p n="8">8. He is more taken up with the inward Ex<g ref="char:EOLhyphen"/>erciſes <hi>of a broken Heart,</hi> than with Formality, and yet careful to uſe all Sanctified means for it's at<g ref="char:EOLhyphen"/>tainment.</p>
+            <p>And this brings me to the third things premiſ<g ref="char:EOLhyphen"/>ed, <hi>ſcil.</hi> to ſhew the moſt propable means to get, and keep, to attain, and maintain, ſuch a heart all our dayes.</p>
+            <p n="1">1.
+<note place="margin">Means to get a bro<g ref="char:EOLhyphen"/>ken Heart.</note> To give diligent attendance to the Word of God, read and preached, 2 <hi>Reg.</hi> 22. <hi>verſ.</hi> 11. &amp;c. <hi>Is not my Word a Hammer that breaks the Rock to pieces?</hi> Jer. 23.29. While <hi>Lydia</hi> was hearing <hi>Paul</hi> preach, Almighty God <hi>opened</hi> her heart, <hi>Acts</hi> 16.14. So that if we would have <hi>broken Hearts,</hi> we muſt wait upon the Preaching of the Goſpel, where the Holy Ghoſt uſually falls up<g ref="char:EOLhyphen"/>on the hearts of men.</p>
+            <p n="2">2. Make a Catalogue of thy Sins; which thou mayſt do either by Memory, or by Book. By Memory thus; <hi>Go aſide, ſet thy Soul before the Lord, as if thou wert preſently to be judged of him; call to mind particularly whatſoever thou canſt remember by thy ſelf; conſider thy Omiſſions of good, and thy Com<g ref="char:EOLhyphen"/>miſſions of evil, in Youth or riper Age, in Heart or Life, in things that concern God or Man, or thine own Soul and Diſpoſition, Thoughts and Affections, Words and Actions.</hi> By Book, thus: <hi>Procure the La<g ref="char:EOLhyphen"/>bour of ſome Reverend Divine, that has briefly gather<g ref="char:EOLhyphen"/>ed
+<pb n="24" facs="tcp:172429:16"/>the ſins againſt each Commandment, and from thence gather out ſo many ſins as thou knowſt by thy ſelf, that thou haſt been guilty of; lay thoſe ſins daily before thy Conſcience, and conſider how many ways thou haſt made thy ſelf guilty.</hi>
+            </p>
+            <p n="3">3. Conſider then the juſtice of God, how he hates all Sin; which thou mayeſt be aſſured of, if thou remember how he plagued our firſt Parents, the Old World, <hi>Sodom</hi> and <hi>Gomorrah;</hi> How fear<g ref="char:EOLhyphen"/>fully he neglected the <hi>Gentiles;</hi> Caſt off the <hi>Jews:</hi> yea, how he ſpared not his own Son Jeſus Chriſt, when he became <hi>a ſurety</hi> for other mens Sins.</p>
+            <p n="4">4. Force upon thy ſelf the remembrance of thy
+<note n="*" place="margin">Memento noviſſima: Memento quid erit in noviſſimo, <hi>Eccius.</hi> 7.26</note> latter end, and thy appearance before the Tri<g ref="char:EOLhyphen"/>bunal <hi>Seat of Chriſt, to receive according to all thou haſt done in the fleſh,</hi> Heb. 9.27. 2 <hi>Cor.</hi> 5.10.</p>
+            <p n="5">5. Beg an humble heart, <hi>a broken and contrite Spirit</hi> at the Throne of Grace, and ſue out God's promiſe made to thoſe who by Prayer iſſue out it's perſormance, <hi>Ezek.</hi> 36.26. compared with <hi>Verſ.</hi> 31. and 37.</p>
+            <p n="6">6. Remember the Paſſion of thy Saviour, the the Poverty, Baniſhment, Ignominy, Temptati<g ref="char:EOLhyphen"/>on, the Apprehending, Forſaking, Arraign<g ref="char:EOLhyphen"/>ing, Condemning, and cruel Death which he ſuffered for thy ſins. <hi>Look upon him whom thou haſt pierced,</hi> &amp;c. <hi>Zach.</hi> 10.10.</p>
+            <p n="7">7. <hi>Laſtly,</hi> Set ſometimes a day apart for Faſt<g ref="char:EOLhyphen"/>ing and Prayer. A day of Faſting was hereto<g ref="char:EOLhyphen"/>fore called, a day of Afflicting or Humbling the
+<pb n="25" facs="tcp:172429:16"/>Soul, <hi>Levit.</hi> 16.29. both becauſe it was the main duty of the day, and becauſe the Lord uſually did bleſs his one Ordinance, ſo as he gave an <hi>hum<g ref="char:EOLhyphen"/>ble Heart</hi> to thoſe that ſought it of him.</p>
+            <p>To break the Stone in thy Heart, beſides the aforementioned Directions, obſerve this Spiri<g ref="char:EOLhyphen"/>tual Receipt; which will (under God) cure all thy Souls Maladies.</p>
+            <div type="recipe">
+               <head>A Sovereign Cordial againſt Infection; taken out of the Sacred Herbal of the Holy Scrip<g ref="char:EOLhyphen"/>ture.</head>
+               <p>
+                  <hi>DRink a good draught of</hi> Joſiah's <hi>Humility next thy Heart; then take a Doſe of</hi> Nehemiah's <hi>Repentance, ſoak'd or ſteep'd in the Veſſel of</hi> a Broken and Contrite Heart, <hi>well ſea<g ref="char:EOLhyphen"/>ſoned with Truth and Sincerity at the bottom; then let all theſe Boyl together in a good quantity of</hi> David's <hi>Tears; and when thou haſt done this, then ſpread a Plaiſter of</hi> God's Grace, <hi>and bind it faſt to thy Soul, with the Swadling bands of</hi> Love <hi>and</hi> pious Conſi<g ref="char:EOLhyphen"/>deration, <hi>and caſt away all thy old infections gar<g ref="char:EOLhyphen"/>ments of</hi> Sin, <hi>and</hi> Iniquity, <hi>and put on the Gar<g ref="char:EOLhyphen"/>ments of</hi> Praiſe <hi>and</hi> Thankſgiving. <hi>Then take a a good quantity of</hi> Joſhuah's <hi>Reſolution, as thou canſt well bear, and ſo walk up and down in theſe Wholſome and pleaſant</hi> Fields <hi>called</hi> Newneſs of Life; <hi>and ſo follow thy Calling in the Fear of God.</hi>
+               </p>
+               <pb n="26" facs="tcp:172429:17"/>
+               <p>All which being carefully done, and truly ob<g ref="char:EOLhyphen"/>ſerved; will undoubtedly preſerve thee from the ſtink and danger of all places whatſoever.</p>
+               <p>
+                  <hi>And ſo I commend you to God, and to the Word of his Grace, which is able to build you up, and to give you an Inheritance amongſt them that are San<g ref="char:EOLhyphen"/>ctified in Jeſus Chriſt.</hi> Amen.</p>
+               <p>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <closer>Laus Deo.</closer>
+            </div>
+         </div>
+         <div type="appendix">
+            <pb n="27" facs="tcp:172429:17"/>
+            <head>AN APPENDIX FOR THE CHRISTIANS CONVERSATION.</head>
+            <p>Whoſoever will live Well, and Bleſſedly, let him follow this Rule, by which he ſhall obtain to that which he deſireth.</p>
+            <list>
+               <item>Let your Thoughts be Divine, Aweful, Godly.</item>
+               <item>Let your Words be Few, Honeſt, True.</item>
+               <item>Let your Works be Holy, Profitable, Charitable.</item>
+               <item>Let your Sleep be Moderate, Quiet, Seaſonable.</item>
+               <item>Let your Diet be Temperate, Convenient, Frugal.</item>
+               <item>Let your Apparel be Sober, Neate, Comely.</item>
+               <item>Let your Recreations be Lawful, Brief, Seldom.</item>
+               <item>Let your Prayers be Short, Devout, Often.</item>
+               <item>Let your Will be Conſtant, Obedient, Ready.</item>
+               <item>Let your Manners be Grave, Courteous, Chearful.</item>
+               <item>Let your Memory be Of Death, Puniſhment, Glory.</item>
+            </list>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Ecclus. 7.26.</hi>
+                  </bibl> Whatſoever thou takeſt in hand, Remember the End, and thou ſhalt never do amiſs.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
